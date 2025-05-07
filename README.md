@@ -24,7 +24,7 @@ This project demonstrates wheat detection using a Faster R-CNN model with a ResN
 
 ## Key Results & Visualizations
 
-### 1. Data Loading Example
+### 1. MOdel Loading Example
 ![Load the model](https://github.com/Yossefmohammed/wheat-detection-faster-rcnn-resnet50/blob/main/Load%20th%20model.png)
 
 ### 2. Training Progress
